@@ -1572,11 +1572,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _showCreditsOnScreen: 1
   _tilesetSource: 1
-  _url: https://tile.googleapis.com/v1/3dtiles/root.json?key=
+  _url: https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyBtBw8EQVvLaNHRwcTYsNXgreLTz5mZsoQ
   _ionAssetID: 0
   _ionAccessToken: 
   _ionServer: {fileID: 11400000, guid: 72aef48bf2076b046976ab869ee3c932, type: 2}
-  _maximumScreenSpaceError: 100
+  _maximumScreenSpaceError: 1
   _preloadAncestors: 0
   _preloadSiblings: 1
   _forbidHoles: 1
